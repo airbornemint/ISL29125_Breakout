@@ -1,0 +1,7 @@
+{
+"name": "SparkFun ISL29125 Breakout",
+"author": "SparkFun Electronics <techsupport@sparkfun.com>",
+"license": "CC-SA",
+"version": "1.0.1",
+"description": "Arduino library showing basic functionality for the ISL29125 RGB Light Sensor Breakout Board. Ported to Particle by Ben Artin <ben@artins.org>"
+}
