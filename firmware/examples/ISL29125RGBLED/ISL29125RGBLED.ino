@@ -28,7 +28,7 @@ Distributed as-is; no warranty is given.
 ******************************************************************************/
 
 #include <Wire.h>
-#include "SparkFunISL29125.h"
+#include "SparkFun_ISL29125.h"
 
 // Declare pins for RGB LED, all PWM pins
 uint8_t rPin = 3;

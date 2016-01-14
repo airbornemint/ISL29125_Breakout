@@ -26,7 +26,7 @@ Distributed as-is; no warranty is given.
 ******************************************************************************/
 
 #include <Wire.h>
-#include "SparkFunISL29125.h"
+#include "SparkFun_ISL29125.h"
 
 // Declare sensor object
 SFE_ISL29125 RGB_sensor;
