@@ -20,7 +20,11 @@ Distributed as-is; no warranty is given.
 #ifndef SFE_ISL29125_h
 #define SFE_ISL29125_h
 
+#ifdef PARTICLE
+#include "application.h"
+#else
 #include "Wire.h"
+#endif
 
 // ISL29125 I2C Address
 #define ISL_I2C_ADDR 0x44
